@@ -25,36 +25,7 @@ Objective: Tasked with creating a regression model based on the Ames Housing Dat
 
 ## Outcome
 
-These are the features that the Lasso modeling retained
-
-bsmt_qualcon
-building_age
-condition_1_Feedr
-condition_1_Norm
-condition_1_PosA
-condition_1_PosN
-condition_1_RRAe
-condition_1_RRAn
-condition_1_RRNe
-firenum_qual
-foundation_CBlock
-foundation_PConc
-foundation_Slab
-house_style_1.5Unf
-house_style_1Story
-house_style_2.5Fin
-house_style_2Story
-house_style_SLvl
-ms_subclass_150
-ms_subclass_160
-ms_subclass_180
-ms_subclass_20
-ms_subclass_30
-ms_subclass_50
-ms_subclass_60
-ms_subclass_75
-totrms_abvgrd
-year_remod/add
+Lasso modeling retained 28 features
 
 What factors influence the house price:
 

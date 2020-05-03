@@ -1,6 +1,6 @@
 # Project 2 
 
-Objective: It is to create a regression model based on Ames Housing Data to predict the price of a houses on sale.
+Objective: Tasked with creating a regression model based on the Ames Housing Dataset. This model will predict the price of a house at sale.
 
 ## Problem Statement
 
@@ -21,14 +21,13 @@ Objective: It is to create a regression model based on Ames Housing Data to pred
 8. Modeling was done with train test split, cross validation score, GridsearchCV to find best parameters, linear regression
 9. Regularization using ridge, lasso and elastic net were used.
 10. Lasso was used to predict housing prices because it reduces coefficients to 0, bringing down number of variables to 28.
-11. With Lasso, the score on unseen X_test_mc data is a pretty decent 0.85. 
+11. With Lasso, the score on unseen X_test_mc data is 0.85. 
 
 ## Outcome
 
 These are the features that the Lasso modeling retained
 
-bsmt_qual
-building_age
+bsmt_qualcon
 building_age
 condition_1_Feedr
 condition_1_Norm
@@ -55,6 +54,7 @@ ms_subclass_50
 ms_subclass_60
 ms_subclass_75
 totrms_abvgrd
+year_remod/add
 
 What factors influence the house price:
 

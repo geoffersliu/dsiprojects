@@ -27,6 +27,35 @@ Objective: Tasked with creating a regression model based on the Ames Housing Dat
 
 Lasso modeling retained 28 features
 
+building_age
+condition_1_Feedr
+condition_1_Norm
+condition_1_PosA
+condition_1_PosN
+condition_1_RRAe
+condition_1_RRAn
+condition_1_RRNe
+firenum_qual
+foundation_CBlock
+foundation_PConc
+foundation_Slab
+heating_qc
+house_style_1Story
+house_style_2.5Unf
+house_style_SLvl
+ms_subclass_160
+ms_subclass_190
+ms_subclass_20
+ms_subclass_30
+ms_subclass_40
+ms_subclass_50
+ms_subclass_60
+ms_subclass_70
+ms_subclass_75
+ms_subclass_90
+totrms_abvgrd
+year_remod/add
+
 What factors influence the house price:
 
 The kind of infrastructure nearby the house such as railroads and parks.

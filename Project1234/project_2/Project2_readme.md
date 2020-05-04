@@ -58,17 +58,17 @@ year_remod/add
 
 What factors influence the house price:
 
-The kind of infrastructure nearby the house such as railroads and parks.
+The kind of infrastructure nearby the house such as railroads and parks. This is undestandable as people would like recreational facilties near their house or prefer to be further away from noisy vehicles like trains
 
-The style of the house.
+The style of the house. Different people have different preferences in the shape and stories of their houses
 
-The kind of dwelling.
+The kind of dwelling is important as people will be inside their houses and the internal features such as attics matter.
 
 The foundation of the house such as brick and wood.
 
-The number of fireplaces and quality of it.
+The number of fireplaces and quality of it, probably due to fact that Iowa experiences winters in freezing temperatures
 
-The rooms that are above graded level.
+The rooms that are above graded level, this is probably because occupants will spend most of their time there
 
 The quality of the basement
 

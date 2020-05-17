@@ -60,6 +60,8 @@ Due to time restrictions I was not able to repeatedly see words that could be ta
 
 I should try more models next time like an ensemble model like random forest (Laptop started overheating and process took too long to complete)
 
+Coefficients could help give companies intending to advertise their products and services by showing what people specifically talk about in each subreddit
+
 
 
  
